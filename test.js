@@ -45,16 +45,16 @@
 //   }
 // };
 
-var input = ["Jason", "David", "Michael"];
-var staticArray = ["Henry", "Peter", "Julie"];
+// var input = ["Jason", "David", "Michael"];
+// var staticArray = ["Henry", "Peter", "Julie"];
 
-//write your code here
+// //write your code here
 
-function joinArrays(arr1, arr2) {
-  newArray = arr1.concat(arr2);
+// function joinArrays(arr1, arr2) {
+//   newArray = arr1.concat(arr2);
 
-  return newArray;
-}
-// do not change
-// for testing purposes
-console.log(joinArrays(input, staticArray));
+//   return newArray;
+// }
+// // do not change
+// // for testing purposes
+// console.log(joinArrays(input, staticArray));
